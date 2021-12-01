@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    padding: 10px 20px;
+    background-color: #2b3a46;
+    height: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+}
+
+.logo{
+    height: 30px;
+  }
+
+  main{
+      background-color: white;
+      margin-top: 50px;
+      min-height: calc(100vh - 50px);
+  }
