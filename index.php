@@ -21,9 +21,12 @@ include "Database-Dischi/arrDischi.php";
 <body>
     <header>
         <nav class="navbar">
-            <a href="#">
-                <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" alt="logo-spotyfy" />
-            </a>
+            <div class="logo-container">
+
+                <a href="#">
+                    <img class="logo" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Spotify_icon.png" alt="logo-spotyfy" />
+                </a>
+            </div>
         </nav>
     </header>
     <main>

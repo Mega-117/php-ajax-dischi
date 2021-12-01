@@ -16,10 +16,14 @@
 }
 
 .logo{
-    height: 30px;
+    height: 100%;
   }
 
-  main{
+.logo-container{
+    height: 100%;
+}
+
+ main{
       background-color: #192d3b;
       margin-top: 50px;
       min-height: calc(100vh - 50px);
