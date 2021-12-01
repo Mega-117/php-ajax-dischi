@@ -20,7 +20,20 @@
   }
 
   main{
-      background-color: white;
+      background-color: #192d3b;
       margin-top: 50px;
       min-height: calc(100vh - 50px);
+      padding: 50px 0;    
+}
+
+  .my-card{
+      height: 360px;
+      background-color: #2b3a46 !important;
+  }
+  .my-text{
+    color: white;
+  }
+
+  .my-title{
+      color: #808080;
   }
